@@ -1,0 +1,10 @@
+# CMake generation dependency list for this directory.
+C:/Users/DiogoSilva/Desktop/ProjectC/GoogleTestExample/googletest/googlemock/CMakeLists.txt
+C:/Users/DiogoSilva/Desktop/ProjectC/GoogleTestExample/googletest/googlemock/cmake/gmock.pc.in
+C:/Users/DiogoSilva/Desktop/ProjectC/GoogleTestExample/googletest/googlemock/cmake/gmock_main.pc.in
+C:/Users/DiogoSilva/Documents/cmake-3.19.3-win64-x64/share/cmake-3.19/Modules/CheckCSourceCompiles.cmake
+C:/Users/DiogoSilva/Documents/cmake-3.19.3-win64-x64/share/cmake-3.19/Modules/CheckIncludeFile.cmake
+C:/Users/DiogoSilva/Documents/cmake-3.19.3-win64-x64/share/cmake-3.19/Modules/CheckLibraryExists.cmake
+C:/Users/DiogoSilva/Documents/cmake-3.19.3-win64-x64/share/cmake-3.19/Modules/FindPackageHandleStandardArgs.cmake
+C:/Users/DiogoSilva/Documents/cmake-3.19.3-win64-x64/share/cmake-3.19/Modules/FindPackageMessage.cmake
+C:/Users/DiogoSilva/Documents/cmake-3.19.3-win64-x64/share/cmake-3.19/Modules/FindThreads.cmake

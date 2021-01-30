@@ -1,0 +1,29 @@
+Start testing: Jan 30 16:07 GMT Standard Time
+----------------------------------------------------------
+1/1 Testing: ExampleTests
+1/1 Test: ExampleTests
+Command: "C:/Users/DiogoSilva/Desktop/ProjectC/GoogleTestExample/build/test/Debug/ExampleTests.exe"
+Directory: C:/Users/DiogoSilva/Desktop/ProjectC/GoogleTestExample/build/test
+"ExampleTests" start time: Jan 30 16:07 GMT Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\DiogoSilva\Desktop\ProjectC\GoogleTestExample\googletest\googletest\src\gtest_main.cc
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ExampleTests
+[ RUN      ] ExampleTests.blocking_queue
+[       OK ] ExampleTests.blocking_queue (7911 ms)
+[----------] 1 test from ExampleTests (7911 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (7911 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   7.94 sec
+----------------------------------------------------------
+Test Passed.
+"ExampleTests" end time: Jan 30 16:07 GMT Standard Time
+"ExampleTests" time elapsed: 00:00:07
+----------------------------------------------------------
+
+End testing: Jan 30 16:07 GMT Standard Time

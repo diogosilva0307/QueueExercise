@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20210130-0001-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.19.3"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="DESKTOP-8NPNT6E"
+	OSRelease=" Professional"
+	OSVersion=" (Build 17134)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="14"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="6"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="34770"
+	TotalPhysicalMemory="16338"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="2807"
+	>
+	<Testing>
+		<StartDateTime>Jan 30 16:07 GMT Standard Time</StartDateTime>
+		<StartTestTime>1612022834</StartTestTime>
+		<TestList>
+			<Test>./test/ExampleTests</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>ExampleTests</Name>
+			<Path>./test</Path>
+			<FullName>./test/ExampleTests</FullName>
+			<FullCommandLine>C:\Users\DiogoSilva\Desktop\ProjectC\GoogleTestExample\build\test\Debug\ExampleTests.exe</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>7.94072</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\DiogoSilva\Desktop\ProjectC\GoogleTestExample\build\test\Debug\ExampleTests.exe</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyNkE9Lw0AQxe/7KebYHBLISRQ8SFN6ELQk9pQNZbuOYe1mJ+6f6sd304TQKkrfaZj5Me/NlMEYZVrohDKLBN4sdbC841uH1vFCUUuV0kfBC3QHTz3fWHpH6Zd8TdRqfEHnV1+i6zXy9tTxsXNeOit5O1S7wSKTktX3sxooJ/8cBmb0n2oXlMeM1emsBtaa9kKPczRHZcl0aCKLPg39D/h85xRyyOtYDeX2CU5qLibZXpM8xDy7j4ABIzjq+fF/EBY3t3kOnUuuSzDz4MkLnbDrrvQobPpKn+byh3/9Dqww2S+reNPmoapWxXD8iGfsGxHJqLo=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Jan 30 16:07 GMT Standard Time</EndDateTime>
+		<EndTestTime>1612022842</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

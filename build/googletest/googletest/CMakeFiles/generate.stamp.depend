@@ -1,0 +1,18 @@
+# CMake generation dependency list for this directory.
+C:/Users/DiogoSilva/Desktop/ProjectC/GoogleTestExample/googletest/googletest/CMakeLists.txt
+C:/Users/DiogoSilva/Desktop/ProjectC/GoogleTestExample/googletest/googletest/cmake/Config.cmake.in
+C:/Users/DiogoSilva/Desktop/ProjectC/GoogleTestExample/googletest/googletest/cmake/gtest.pc.in
+C:/Users/DiogoSilva/Desktop/ProjectC/GoogleTestExample/googletest/googletest/cmake/gtest_main.pc.in
+C:/Users/DiogoSilva/Desktop/ProjectC/GoogleTestExample/googletest/googletest/cmake/internal_utils.cmake
+C:/Users/DiogoSilva/Documents/cmake-3.19.3-win64-x64/share/cmake-3.19/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in
+C:/Users/DiogoSilva/Documents/cmake-3.19.3-win64-x64/share/cmake-3.19/Modules/CMakePackageConfigHelpers.cmake
+C:/Users/DiogoSilva/Documents/cmake-3.19.3-win64-x64/share/cmake-3.19/Modules/CheckCSourceCompiles.cmake
+C:/Users/DiogoSilva/Documents/cmake-3.19.3-win64-x64/share/cmake-3.19/Modules/CheckIncludeFile.cmake
+C:/Users/DiogoSilva/Documents/cmake-3.19.3-win64-x64/share/cmake-3.19/Modules/CheckLibraryExists.cmake
+C:/Users/DiogoSilva/Documents/cmake-3.19.3-win64-x64/share/cmake-3.19/Modules/FindPackageHandleStandardArgs.cmake
+C:/Users/DiogoSilva/Documents/cmake-3.19.3-win64-x64/share/cmake-3.19/Modules/FindPackageMessage.cmake
+C:/Users/DiogoSilva/Documents/cmake-3.19.3-win64-x64/share/cmake-3.19/Modules/FindPython.cmake
+C:/Users/DiogoSilva/Documents/cmake-3.19.3-win64-x64/share/cmake-3.19/Modules/FindPython/Support.cmake
+C:/Users/DiogoSilva/Documents/cmake-3.19.3-win64-x64/share/cmake-3.19/Modules/FindThreads.cmake
+C:/Users/DiogoSilva/Documents/cmake-3.19.3-win64-x64/share/cmake-3.19/Modules/Internal/CheckSourceCompiles.cmake
+C:/Users/DiogoSilva/Documents/cmake-3.19.3-win64-x64/share/cmake-3.19/Modules/WriteBasicConfigVersionFile.cmake

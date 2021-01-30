@@ -1,0 +1,2 @@
+C:\Users\DiogoSilva\Desktop\ProjectC\GoogleTestExample\build\Debug\Example.pdb
+C:\Users\DiogoSilva\Desktop\ProjectC\GoogleTestExample\build\Example.dir\Debug\Example.pdb

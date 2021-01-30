@@ -1,0 +1,120 @@
+Start testing: Jan 27 23:59 GMT Standard Time
+----------------------------------------------------------
+1/1 Testing: ExampleTests
+1/1 Test: ExampleTests
+Command: "C:/Users/DiogoSilva/Desktop/ProjectC/GoogleTestExample/build/test/Debug/ExampleTests.exe"
+Directory: C:/Users/DiogoSilva/Desktop/ProjectC/GoogleTestExample/build/test
+"ExampleTests" start time: Jan 27 23:59 GMT Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\DiogoSilva\Desktop\ProjectC\GoogleTestExample\googletest\googletest\src\gtest_main.cc
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ExampleTests
+[ RUN      ] ExampleTests.queue
+Pushing 1
+Pushing 2
+Queue is full 3
+Popping 1
+Pushing 3
+Queue is full 3
+Popping 2
+Popping 3
+Queue is empty 3
+Pushing 4
+Popping 4
+Queue is empty 3
+Pushing 5
+Popping 5
+C:\Users\DiogoSilva\Desktop\ProjectC\GoogleTestExample\test\ExampleTests.cpp(8): error: Expected equality of these values:
+  1
+  queue(5)
+    Which is: 0
+Pushing 1
+Pushing 2
+Queue is full 3
+Popping 1
+Popping 2
+Queue is empty 3
+Pushing 3
+Popping 3
+Queue is empty 3
+Pushing 4
+Pushing 5
+Popping 4
+Popping 5
+C:\Users\DiogoSilva\Desktop\ProjectC\GoogleTestExample\test\ExampleTests.cpp(8): error: Expected equality of these values:
+  1
+  queue(5)
+    Which is: 0
+Pushing 1
+Pushing 2
+Queue is full 3
+Popping 1
+Popping 2
+Queue is empty 3
+Pushing 3
+Popping 3
+Queue is empty 3
+Pushing 4
+Popping 4
+Queue is empty 3
+Pushing 5
+Popping 5
+C:\Users\DiogoSilva\Desktop\ProjectC\GoogleTestExample\test\ExampleTests.cpp(8): error: Expected equality of these values:
+  1
+  queue(5)
+    Which is: 0
+Pushing 1
+Pushing 2
+Queue is full 3
+Popping 1
+Popping 2
+Queue is empty 3
+Pushing 3
+Popping 3
+Queue is empty 3
+Pushing 4
+Pushing 5
+Popping 4
+Popping 5
+C:\Users\DiogoSilva\Desktop\ProjectC\GoogleTestExample\test\ExampleTests.cpp(8): error: Expected equality of these values:
+  1
+  queue(5)
+    Which is: 0
+Pushing 1
+Pushing 2
+Queue is full 3
+Popping 1
+Pushing 3
+Queue is full 3
+Popping 2
+Popping 3
+Queue is empty 3
+Pushing 4
+Pushing 5
+Popping 4
+Popping 5
+C:\Users\DiogoSilva\Desktop\ProjectC\GoogleTestExample\test\ExampleTests.cpp(8): error: Expected equality of these values:
+  1
+  queue(5)
+    Which is: 0
+[  FAILED  ] ExampleTests.queue (2 ms)
+[----------] 1 test from ExampleTests (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] ExampleTests.queue
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Failed.
+"ExampleTests" end time: Jan 27 23:59 GMT Standard Time
+"ExampleTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jan 27 23:59 GMT Standard Time

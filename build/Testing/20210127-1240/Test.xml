@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20210127-1240-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.18.20081302-MSVC_2"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="DESKTOP-8NPNT6E"
+	OSRelease=" Professional"
+	OSVersion=" (Build 17134)"
+	OSPlatform="x86"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="14"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="6"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="34770"
+	TotalPhysicalMemory="16338"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="2807"
+	>
+	<Testing>
+		<StartDateTime>Jan 27 23:59 GMT Standard Time</StartDateTime>
+		<StartTestTime>1611791996</StartTestTime>
+		<TestList>
+			<Test>./test/ExampleTests</Test>
+		</TestList>
+		<Test Status="failed">
+			<Name>ExampleTests</Name>
+			<Path>./test</Path>
+			<FullName>./test/ExampleTests</FullName>
+			<FullCommandLine>C:\Users\DiogoSilva\Desktop\ProjectC\GoogleTestExample\build\test\Debug\ExampleTests.exe</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>Failed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0325069</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\DiogoSilva\Desktop\ProjectC\GoogleTestExample\build\test\Debug\ExampleTests.exe</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJztlUtLAzEQx+/5FHPsgl20D5AFD2KrCCK1rXjoFonrdBvNJjGPqt/e7IOlqxbr4yI0pyH5JTP/f0Jm7IRgIoWMMtEKYKFlBidRfG1Qm3jAZConjK9oPEDzaKWKR1o+YGJP4jMpU45TNHb4QjPFMU6LGetn1kOjkzjNo9s8RZgkZHZUjzmMq/wHkDNl/io2jlkMyaxdjzmccXlHebmOYsW0FBkKz6JtO/UOXj+zKjKv15AZjK8voRjzxkr45NAhGTmzLIqqow65yleAGVg4zqFLRlKpJtPdyHTqaI3BTNnXHKq292qotxnq11Cf/PCailtpiE6Uah0GEaDWUkfeEOW34j3gk6Oc+fxyAXaJBmFFuUMTEfCyAQqzWv2A5EbeLFmy9CVHsP9d/2qXNsrubmngB5d6O792D2734H7p1599cP/UrhnA6fH5xXDweb+AVgcyE2zXfEoYrLSUB2S77maR6va9fBbN3rmpZ4KmImzm8QpGx5NJqWC/YE3Y1FWesAecmdysO+TyOfpKOiF+XwVMh5MpeQM6i8ML====</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Jan 27 23:59 GMT Standard Time</EndDateTime>
+		<EndTestTime>1611791996</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
